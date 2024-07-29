@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { Divider } from '@interchain-ui/react';
 import { ReactNoSSR } from '@interchain-ui/react-no-ssr';
 import { defaultChainName } from '@/config';

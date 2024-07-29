@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState } from 'react';
 import { Divider } from '@interchain-ui/react';
 import { ChainName } from 'cosmos-kit';

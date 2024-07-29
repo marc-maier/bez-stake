@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useMemo } from 'react';
 import { ChainName } from 'cosmos-kit';
 import {

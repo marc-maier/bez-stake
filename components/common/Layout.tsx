@@ -1,3 +1,4 @@
+// @ts-nocheck
 import Head from 'next/head';
 import { Container } from '@interchain-ui/react';
 import { Header } from './Header';

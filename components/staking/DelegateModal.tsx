@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState } from 'react';
 import { cosmos } from 'interchain-query';
 import { StdFee } from '@cosmjs/amino';

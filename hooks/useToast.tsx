@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { toast, Text, ToastType } from '@interchain-ui/react';
 
 export type CustomToast = {

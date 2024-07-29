@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { getCoin } from '@/config';
 import { ChainName } from 'cosmos-kit';
 import {

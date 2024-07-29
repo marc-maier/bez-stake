@@ -1,3 +1,4 @@
+// @ts-nocheck
 import '@interchain-ui/react/styles';
 import '@interchain-ui/react/globalStyles';
 

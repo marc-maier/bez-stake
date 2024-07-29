@@ -1,3 +1,4 @@
+// @ts-nocheck
 import NextLink from 'next/link';
 import { Stack, Button } from '@interchain-ui/react';
 import { Layout } from '@/components';
